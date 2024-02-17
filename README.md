@@ -31,4 +31,4 @@ To use the code:
 - seaborn
 
 ## Contributors
-- Aryan Singh Rawat ([GitHub](https://github.com/aryanraw))
+- Aryan Singh Rawat ([aryanraw](https://github.com/aryanraw))
